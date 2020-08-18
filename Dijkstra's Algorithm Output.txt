@@ -1,0 +1,11 @@
+Vertex        Distance          Path
+0 -> 1           4              0 1
+0 -> 2           3              0 2
+0 -> 3           5              0 3
+0 -> 4           12             0 3 4
+0 -> 5           10             0 2 6 5
+0 -> 6           7              0 2 6
+0 -> 7           9              0 2 6 7
+0 -> 8           15             0 2 6 7 8
+C:\Users\antho\OneDrive\Documents\Computer Science\CS 340 - Advanced Data Structures\Assignments\Assignment 4\CS340_Assignment4_Part2\Debug\CS340_Assignment4_Part2.exe (process 12708) exited with code 0.
+Press any key to close this window . . .
