@@ -73,7 +73,7 @@ void dijkstra(int graph[V][V], int src)
 		parent[0] = -1;
 		distance[i] = INT_MAX; 
 		sptSet[i] = false;
-	}
+	} 
 
 	// Distance of source vertex from itself is 0 
 	distance[src] = 0;
